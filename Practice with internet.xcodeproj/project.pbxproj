@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E717F31A28E8DA5E00748BD4 /* Practive_with_internetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E717F31928E8DA5E00748BD4 /* Practive_with_internetApp.swift */; };
-		E717F31C28E8DA5E00748BD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E717F31B28E8DA5E00748BD4 /* ContentView.swift */; };
+		E717F31A28E8DA5E00748BD4 /* Practice_with_internetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E717F31928E8DA5E00748BD4 /* Practice_with_internetApp.swift */; };
 		E717F31E28E8DA5F00748BD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E717F31D28E8DA5F00748BD4 /* Assets.xcassets */; };
 		E717F32128E8DA5F00748BD4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E717F32028E8DA5F00748BD4 /* Preview Assets.xcassets */; };
+		E717F32828E9112600748BD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E717F32728E9112600748BD4 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E717F31628E8DA5E00748BD4 /* Practive with internet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Practive with internet.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E717F31928E8DA5E00748BD4 /* Practive_with_internetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practive_with_internetApp.swift; sourceTree = "<group>"; };
-		E717F31B28E8DA5E00748BD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E717F31628E8DA5E00748BD4 /* Practice with internet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Practice with internet.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E717F31928E8DA5E00748BD4 /* Practice_with_internetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practice_with_internetApp.swift; sourceTree = "<group>"; };
 		E717F31D28E8DA5F00748BD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E717F32028E8DA5F00748BD4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E717F32728E9112600748BD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,7 +35,7 @@
 		E717F30D28E8DA5E00748BD4 = {
 			isa = PBXGroup;
 			children = (
-				E717F31828E8DA5E00748BD4 /* Practive with internet */,
+				E717F31828E8DA5E00748BD4 /* Practice with internet */,
 				E717F31728E8DA5E00748BD4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,20 +43,20 @@
 		E717F31728E8DA5E00748BD4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E717F31628E8DA5E00748BD4 /* Practive with internet.app */,
+				E717F31628E8DA5E00748BD4 /* Practice with internet.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E717F31828E8DA5E00748BD4 /* Practive with internet */ = {
+		E717F31828E8DA5E00748BD4 /* Practice with internet */ = {
 			isa = PBXGroup;
 			children = (
-				E717F31928E8DA5E00748BD4 /* Practive_with_internetApp.swift */,
-				E717F31B28E8DA5E00748BD4 /* ContentView.swift */,
+				E717F31928E8DA5E00748BD4 /* Practice_with_internetApp.swift */,
+				E717F32728E9112600748BD4 /* ContentView.swift */,
 				E717F31D28E8DA5F00748BD4 /* Assets.xcassets */,
 				E717F31F28E8DA5F00748BD4 /* Preview Content */,
 			);
-			path = "Practive with internet";
+			path = "Practice with internet";
 			sourceTree = "<group>";
 		};
 		E717F31F28E8DA5F00748BD4 /* Preview Content */ = {
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E717F31528E8DA5E00748BD4 /* Practive with internet */ = {
+		E717F31528E8DA5E00748BD4 /* Practice with internet */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E717F32428E8DA5F00748BD4 /* Build configuration list for PBXNativeTarget "Practive with internet" */;
+			buildConfigurationList = E717F32428E8DA5F00748BD4 /* Build configuration list for PBXNativeTarget "Practice with internet" */;
 			buildPhases = (
 				E717F31228E8DA5E00748BD4 /* Sources */,
 				E717F31328E8DA5E00748BD4 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Practive with internet";
+			name = "Practice with internet";
 			productName = "Practive with internet";
-			productReference = E717F31628E8DA5E00748BD4 /* Practive with internet.app */;
+			productReference = E717F31628E8DA5E00748BD4 /* Practice with internet.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E717F31128E8DA5E00748BD4 /* Build configuration list for PBXProject "Practive with internet" */;
+			buildConfigurationList = E717F31128E8DA5E00748BD4 /* Build configuration list for PBXProject "Practice with internet" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E717F31528E8DA5E00748BD4 /* Practive with internet */,
+				E717F31528E8DA5E00748BD4 /* Practice with internet */,
 			);
 		};
 /* End PBXProject section */
@@ -137,8 +137,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E717F31C28E8DA5E00748BD4 /* ContentView.swift in Sources */,
-				E717F31A28E8DA5E00748BD4 /* Practive_with_internetApp.swift in Sources */,
+				E717F32828E9112600748BD4 /* ContentView.swift in Sources */,
+				E717F31A28E8DA5E00748BD4 /* Practice_with_internetApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +266,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Practive with internet/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Practice with internet/Preview Content\"";
 				DEVELOPMENT_TEAM = 4H2C7B7QRQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -295,7 +295,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Practive with internet/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Practice with internet/Preview Content\"";
 				DEVELOPMENT_TEAM = 4H2C7B7QRQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E717F31128E8DA5E00748BD4 /* Build configuration list for PBXProject "Practive with internet" */ = {
+		E717F31128E8DA5E00748BD4 /* Build configuration list for PBXProject "Practice with internet" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E717F32228E8DA5F00748BD4 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E717F32428E8DA5F00748BD4 /* Build configuration list for PBXNativeTarget "Practive with internet" */ = {
+		E717F32428E8DA5F00748BD4 /* Build configuration list for PBXNativeTarget "Practice with internet" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E717F32528E8DA5F00748BD4 /* Debug */,
